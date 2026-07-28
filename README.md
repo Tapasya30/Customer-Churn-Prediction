@@ -70,16 +70,3 @@ Churn prediction/
 ├── requirements.txt                  # Python package dependencies
 ├── MPG_Customer_Churn_Dataset.csv    # Customer Churn Dataset
 └── README.md                         # Project documentation
-```
-
----
-
-## 🛠️ Technology Stack
-
-- **Language**: Python 3.10+
-- **Machine Learning**: Scikit-Learn, Gradient Boosting, Joblib
-- **Data Processing**: Pandas, NumPy
-- **Web App & UI**: Streamlit, Custom Glassmorphism CSS
-- **Visualization**: Matplotlib, Seaborn
-
-
