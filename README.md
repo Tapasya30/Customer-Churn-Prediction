@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange?logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 An end-to-end Machine Learning and Analytics solution designed to predict customer churn, evaluate key behavioral risk factors, and provide real-time risk scores through an interactive Glassmorphism web dashboard.
 
