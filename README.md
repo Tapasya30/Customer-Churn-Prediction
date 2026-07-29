@@ -13,7 +13,7 @@ An end-to-end Machine Learning and Analytics solution designed to predict custom
 
 Experience the live deployed dashboard in action:
 
-👉 **[🚀 Launch Customer Churn Predictor App]((https://customer-churn-prediction-live24x7.streamlit.app/))**
+👉 LIVE APP : 🚀 https://customer-churn-prediction-live24x7.streamlit.app/
 
 ---
 
