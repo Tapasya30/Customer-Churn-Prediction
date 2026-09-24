@@ -1,0 +1,11 @@
+Customer_Type,City,Product_Category,Purchase_Frequency,Total_Amount,Avg_Order_Value,Last_Purchase_Days,Credit_Days,Payment_Mode,Orders_Last_6_Months,Complaint_Count,Years_As_Customer
+Dealer,Chandigarh,Industrial Supplies,21,227415,11969,141,0,Cash,19,0,0
+Retailer,Jaipur,Fasteners,3,77819,38910,259,60,Online,2,2,7
+Dealer,Noida,Industrial Supplies,1,17624,17624,175,0,Online,0,0,13
+Retailer,Noida,Bearings,12,531033,37931,23,90,Bank Transfer,14,3,8
+Industry,Noida,Tools,12,647437,46246,361,0,UPI,14,0,6
+Dealer,Chandigarh,Chemicals,9,166674,16667,84,60,Credit,10,1,11
+Industry,Delhi,Tools,6,318726,45532,139,0,Online,7,8,12
+Contractor,Ghaziabad,Industrial Supplies,13,522365,40182,109,90,UPI,13,6,2
+Retailer,Chandigarh,Industrial Supplies,5,190914,38183,127,30,Credit,5,3,4
+Retailer,Chandigarh,Lubricants,5,68799,9828,47,45,UPI,7,4,15
